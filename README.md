@@ -31,7 +31,7 @@ model/      → Core data models (Patient, Doctor, etc.)
 service/    → Business logic (QueueManager, StressCalculator, SymptomMatcher)
 util/       → Utility classes (BillingCalculator, StoryGenerator, TipGenerator)
 
-HOW TO RUN THE PrROGRAM
+HOW TO RUN THE PROGRAM
 1)Open the project in any Java IDE (IntelliJ IDEA, Eclipse, NetBeans)
 2)Ensure JDK is installed and configured
 3)Run the HospitalSystem.java file located in the app package
